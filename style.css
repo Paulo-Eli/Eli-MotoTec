@@ -1,0 +1,27 @@
+div {
+    text-align: center;
+}
+.bold {
+    font-weight: bold;
+    color: blue;
+}
+button {
+    color: black;
+    background-color: red;
+    margin: 10px;
+    padding: 3px 7px;
+    border-radius: 20px;
+    font-weight: bold;
+    border: 3px solid;
+    outline: none;
+}
+.fone {
+    background-color: aqua;
+    color: black;
+    font-weight: bolder;
+}
+.local {
+    background-color: rgb(0, 255, 55);
+    color: black;
+    font-weight: bold;
+}
